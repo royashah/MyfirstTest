@@ -1,0 +1,68 @@
+ls
+pwd
+howami
+whoami
+cd /
+ls
+top
+ls
+cp
+ls
+mv
+cd /
+ls
+cd /
+cd .pro
+cd /proc
+cd /dev/
+ls
+lsusb
+uname -a
+ls
+cd /usr/
+ls
+ls
+cd share/
+ls
+cd vim/
+ls
+cd ..
+cd ..
+ls
+cd bin/
+ls
+export M2_HOME=/user/apple/apache-maven-3.0.3
+mvn -version
+echo $JAVA_HOME
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home
+export PATH=/opt/apache-maven-3.5.0/bin:$PATH
+mvn -v
+ls
+Library
+cd Library
+Java -version
+javac
+maven -version
+echo $JAVA_HOME
+ls
+java -version
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home
+cd
+ls
+cd Public
+ls
+dir
+echo
+echo $JAVA_HOME
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home
+ls
+cd
+ls
+Library/
+echo $JAVA_HOME
+/Library/Java/JavaVirtualMachines/jdk1.8.0_1
+/Library/Java/JavaVirtualMachines/jdk1.8.0_1
+ls
+cd Library/
+LS
+mvn -version

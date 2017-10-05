@@ -1,0 +1,33 @@
+ls
+pwd
+howami
+whoami
+cd /
+ls
+top
+ls
+cp
+ls
+mv
+cd /
+ls
+cd /
+cd .pro
+cd /proc
+cd /dev/
+ls
+lsusb
+uname -a
+ls
+cd /usr/
+ls
+ls
+cd share/
+ls
+cd vim/
+ls
+cd ..
+cd ..
+ls
+cd bin/
+ls
